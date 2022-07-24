@@ -2,13 +2,13 @@
   "name": "h5-page-view",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://altb123.github.io/h5Page/",
+  "homepage": "https://altb123.github.io/h5Page",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "deploy": "gh-pages -d build",
-    "predeploy": "yarn run build"
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.0.6",
