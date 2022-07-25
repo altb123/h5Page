@@ -2,7 +2,7 @@
   "name": "h5-page-view",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://altb123.github.io/h5Page",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
